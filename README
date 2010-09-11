@@ -1,0 +1,13 @@
+To install:
+
+1. Find your Geany filedefs folder
+	* Windows (7) - C:/Users/[username]/AppData/Roaming/geany/filedefs
+	* Ubuntu - /home/[username]/.config/geany/filedefs
+2. Extract the files to this folder
+3. Restart Geany
+4. Voila! You should have an uber sexy Bespin theme for Geany!
+
+Credits
+1. Ported from the Bespin theme for Gedit
+2. Original Bespin theme belongs to Mozilla Labs (I believe)
+3. The Geany Online Theme Editor
